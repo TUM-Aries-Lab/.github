@@ -9,7 +9,7 @@ Some packages currently under development are:
 4. Plotly-based visualization tool to view lower limb segment orientation in real time - [link](https://github.com/TUM-Aries-Lab)
 
 ## Getting Started
-A very helpful repository template to start your own project can be created with the following command. 
+A very helpful [repository](https://github.com/TUM-Aries-Lab/template-python.git) template to start your own project can be created with the following command. 
 
 `git clone https://github.com/TUM-Aries-Lab/template-python.git`
 
