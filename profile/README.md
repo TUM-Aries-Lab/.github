@@ -13,7 +13,10 @@ A very helpful repository template to start your own project can be created with
 
 `git clone https://github.com/TUM-Aries-Lab/template-python.git`
 
-Please feel free to make merge requests on this template when you see fit.
+This template is a great starting point to make a well structured Python package that you can publish on PyPI with only two commands. There are also many built in files that make formatting and running automated tests a breeze. Please feel free to make merge requests on this template when you see fit.
+
+## Questions
+Reach out to tony.smoragiewicz (at) tum.de if you have questions about this page and its links.
 
 <!--
 
